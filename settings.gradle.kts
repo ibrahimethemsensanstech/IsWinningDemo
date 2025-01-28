@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "IsWinningDemo"
-include(":shared")
+include(":winning")
